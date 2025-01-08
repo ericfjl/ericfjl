@@ -1,4 +1,4 @@
-## Hi there 👋
+## 架构师 | 开发经理 | AI agent | web3 | Python | java
 
 <!--
 **ericfjl/ericfjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
